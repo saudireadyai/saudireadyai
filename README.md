@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/saudiready-logo.jpg" alt="SaudiReady logo" width="144" height="144">
+</p>
 
-<!--
-**saudireadyai/saudireadyai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">SaudiReady</h1>
 
-Here are some ideas to get you started:
+<p align="center">Reporting and workflow tools for clinic teams and accounts payable.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><a href="#projects">Explore the projects</a> · <a href="mailto:saudiready.ai@gmail.com">Contact SaudiReady</a></p>
+
+## Projects
+
+### SaudiReady View
+
+A developer package for teams building visibility and review reports for non-dental clinics. It includes an English Python reporting engine, 18 configurable n8n workflow templates, and sample reports. The showcase uses synthetic data and live integrations require buyer setup.
+
+[View the project and sample reports](https://github.com/saudireadyai/saudiready-view-showcase) · [Buy on Payhip](https://payhip.com/b/RxM6z) · [Buy on Gumroad](https://saudiready.gumroad.com/l/view-source)
+
+### Venture Ops Finance Toolkit
+
+Four browser-based CSV tools for supplier statement reconciliation, possible duplicate invoices, accounts payable exceptions, and CSV cleanup. The public demo shows worked examples using synthetic data. Checkout for the downloadable edition is pending.
+
+[View the project and screenshots](https://github.com/saudireadyai/venture-ops-finance-toolkit-showcase) · [Try the free demo](https://venture-ops-finance-toolkit-qz7otz.v2.appdeploy.ai/) · [Watch the 40-second walkthrough](https://youtu.be/A6QtMoRlpBE)
+
+## Contact
+
+For licensing questions and purchase inquiries, email [saudiready.ai@gmail.com](mailto:saudiready.ai@gmail.com).
