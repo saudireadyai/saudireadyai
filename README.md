@@ -18,9 +18,9 @@ A developer package for teams building visibility and review reports for non-den
 
 ### Venture Ops Finance Toolkit
 
-Four browser-based CSV tools for supplier statement reconciliation, possible duplicate invoices, accounts payable exceptions, and CSV cleanup. The public demo shows worked examples using synthetic data. Checkout for the downloadable edition is pending.
+Four browser-based CSV tools for supplier statement reconciliation, possible duplicate invoices, accounts payable exceptions, and CSV cleanup. The public demo shows worked examples using synthetic data. The Offline Edition is available as a one-time purchase.
 
-[View the project and screenshots](https://github.com/saudireadyai/venture-ops-finance-toolkit-showcase) · [Try the free demo](https://venture-ops-finance-toolkit-qz7otz.v2.appdeploy.ai/) · [Watch the 40-second walkthrough](https://youtu.be/A6QtMoRlpBE)
+[View the project and screenshots](https://github.com/saudireadyai/venture-ops-finance-toolkit-showcase) · [Try the free demo](https://venture-ops-finance-toolkit-qz7otz.v2.appdeploy.ai/) · [Watch the 40-second walkthrough](https://youtu.be/A6QtMoRlpBE) · [Buy on Payhip — SAR 149](https://payhip.com/b/XnqJK)
 
 ## Contact
 
