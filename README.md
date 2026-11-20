@@ -17,7 +17,7 @@ Each project is a separate product with its own scope, license and delivery pack
 | [SaudiReady View](https://github.com/saudireadyai/saudiready-view-showcase) | Python synthetic reporting engine and 18 configurable n8n workflow templates; live integrations require buyer implementation. | USD $399 |
 | [Venture Ops Finance Toolkit](https://github.com/saudireadyai/venture-ops-finance-toolkit-showcase) | Four offline HTML tools for CSV reconciliation, duplicate candidates, AP exceptions and cleanup. Development source is excluded. | USD $29 |
 | [Venture Ops AP Control Layer](https://github.com/saudireadyai/venture-ops-ap-control-layer-showcase) | TypeScript application source for CSV/XLSX supplier reconciliation, review decisions and exports. | USD $99 |
-| [SaudiReady Revenue Readiness](https://github.com/saudireadyai/saudiready-revenue-readiness-showcase) | React/TypeScript frontend template with synthetic examples; no backend, AI engine or real document processing. | Preview available; checkout pending |
+| [SaudiReady Revenue Readiness](https://github.com/saudireadyai/saudiready-revenue-readiness-showcase) | React/TypeScript frontend template with synthetic examples; no backend, AI engine or real document processing. | USD $49 |
 
 Prices are one-time base prices before applicable taxes. Checkout shows the final currency and total. No exclusive ownership or source resale rights are included.
 
@@ -41,9 +41,9 @@ A human-review application for one organization's internal use. It does not auth
 
 ### SaudiReady Revenue Readiness
 
-[Project and release status](https://github.com/saudireadyai/saudiready-revenue-readiness-showcase) · [English template preview](https://saudiready-revenue-readiness-template-preview-6xleio.v2.appdeploy.ai/)
+[Project and release status](https://github.com/saudireadyai/saudiready-revenue-readiness-showcase) · [English template preview](https://saudiready-revenue-readiness-template-preview-6xleio.v2.appdeploy.ai/) · [Payhip — USD $49](https://payhip.com/b/vzXOZ)
 
-Prototype invoice-readiness dashboards before implementing a backend. Proposed future features are not included or activated by purchasing a template. Buyer delivery and checkout publication remain pending.
+Prototype invoice-readiness dashboards before implementing a backend. Proposed future features are not included or activated by purchasing a template.
 
 ## Contact
 
