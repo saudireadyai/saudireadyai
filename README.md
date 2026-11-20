@@ -41,7 +41,7 @@ A human-review application for one organization's internal use. It does not auth
 
 ### SaudiReady Revenue Readiness
 
-[Project and release status](https://github.com/saudireadyai/saudiready-revenue-readiness-showcase) · [English template preview](https://saudiready-revenue-readiness-template-preview-6xleio.v2.appdeploy.ai/) · [Payhip — USD $49](https://payhip.com/b/vzXOZ)
+[Project and release status](https://github.com/saudireadyai/saudiready-revenue-readiness-showcase) · [English template preview](https://saudiready-revenue-readiness-template-preview-6xleio.v2.appdeploy.ai/) · [Payhip — USD $49](https://payhip.com/b/vzXOZ) · [Gumroad — USD $49](https://saudiready.gumroad.com/l/revenue-readiness)
 
 Prototype invoice-readiness dashboards before implementing a backend. Proposed future features are not included or activated by purchasing a template.
 
