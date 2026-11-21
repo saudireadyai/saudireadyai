@@ -29,7 +29,7 @@ For developers building clinic reporting workflows. Synthetic demos do not estab
 
 ### Venture Ops Finance Toolkit
 
-[Project and screenshots](https://github.com/saudireadyai/venture-ops-finance-toolkit-showcase) · [Payhip — USD $29](https://payhip.com/b/XnqJK) · [Earlier demo](https://venture-ops-finance-toolkit-qz7otz.v2.appdeploy.ai/) · [Walkthrough](https://youtu.be/A6QtMoRlpBE)
+[Project and screenshots](https://github.com/saudireadyai/venture-ops-finance-toolkit-showcase) · [Payhip — USD $29](https://payhip.com/b/XnqJK) · [Buy on Gumroad](https://saudiready.gumroad.com/l/finance-toolkit-offline) · [Earlier demo](https://venture-ops-finance-toolkit-qz7otz.v2.appdeploy.ai/) · [Walkthrough](https://youtu.be/A6QtMoRlpBE)
 
 The v1.1 Offline Edition runs locally after extraction. Review source records before acting on flagged rows. The public demo is an earlier preview, not the downloadable v1.1 build.
 
