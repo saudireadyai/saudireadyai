@@ -6,7 +6,7 @@
 
 <p align="center">Practical software, developer source packages and finance workflow prototypes.</p>
 
-<p align="center"><a href="#projects">Explore the projects</a> · <a href="mailto:saudiready.ai@gmail.com">Contact SaudiReady</a></p>
+<p align="center"><a href="#projects">Explore the projects</a> · <a href="https://saudiready.gumroad.com/">Browse the Gumroad store</a> · <a href="mailto:saudiready.ai@gmail.com">Contact SaudiReady</a></p>
 
 ## Projects
 
